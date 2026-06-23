@@ -23,6 +23,12 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 
 ---
 
+## 🖼️ Imminent Deadline Risk Predictor Preview
+
+![Predictor Preview](risk-predictor-overview.png)
+
+---
+
 ## 🧮 How the Risk Score Works
 
 Each task is evaluated using four core data points:
