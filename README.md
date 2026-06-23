@@ -12,6 +12,12 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 
 ---
 
+## 🖼️ Imminent Deadline Risk Predictor Preview
+
+![Predictor Preview](risk-predictor-overview.png)
+
+---
+
 ## 📊 Summary Metrics
 
 | Metric | Value |
@@ -20,12 +26,6 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 | High Risk Projects | 48 |
 | Medium Risk Projects | 49 |
 | Low Risk Projects | 27 |
-
----
-
-## 🖼️ Imminent Deadline Risk Predictor Preview
-
-![Predictor Preview](risk-predictor-overview.png)
 
 ---
 
