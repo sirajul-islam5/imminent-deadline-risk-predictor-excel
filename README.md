@@ -1,4 +1,4 @@
-# ⏳ Imminent Deadline Risk Predictor — Excel Mini Project
+# ⏳ Imminent Deadline Risk Predictor — Excel Project
 
 An Excel tool that automatically flags which tasks or projects are at risk of missing their deadlines — based on how much work remains versus how many days are left. Built entirely using core Excel formulas and conditional formatting, with no macros or external add-ins.
 
