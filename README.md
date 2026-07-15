@@ -14,7 +14,7 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 
 ## 🖼️ Imminent Deadline Risk Predictor Preview
 
-![Predictor Preview](risk-predictor-overview.png)
+![Predictor Preview](risk-predictor-preview.png)
 
 ---
 
