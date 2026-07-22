@@ -1,10 +1,10 @@
-# ⏳ Imminent Deadline Risk Predictor — Excel Project
+# Imminent Deadline Risk Predictor — Excel Project
 
 An Excel tool that automatically flags which tasks or projects are at risk of missing their deadlines — based on how much work remains versus how many days are left. Built entirely using core Excel formulas and conditional formatting, with no macros or external add-ins.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 When managing dozens or hundreds of tasks at once, it's easy to lose track of which ones are quietly heading toward a missed deadline. This project solves that problem by calculating a **Risk of Missing Deadline (%)** score for every task — instantly flagging it as Low, Medium, or High Risk based on its actual pace of completion.
 
@@ -12,13 +12,13 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 
 ---
 
-## 🖼️ Imminent Deadline Risk Predictor Preview
+## Imminent Deadline Risk Predictor Preview
 
 ![Predictor Preview](risk-predictor-preview.jpg)
 
 ---
 
-## 📊 Summary Metrics
+## Summary Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -29,7 +29,7 @@ The dataset simulates 124 real-world tasks across software development, IT opera
 
 ---
 
-## 🧮 How the Risk Score Works
+## How the Risk Score Works
 
 Each task is evaluated using four core data points:
 
@@ -46,13 +46,13 @@ Each task is evaluated using four core data points:
 The tool compares how much work is left against how much time is left. If the remaining work can't realistically be finished at the current pace within the remaining days, the risk score rises above 100% — signaling the deadline is very likely to be missed.
 
 **Risk Level Categories:**
-- 🟢 **Low Risk** — Risk score well under 100%, task is on pace   
-- 🟡 **Medium Risk** — Risk score approaching or slightly over 100%   
-- 🔴 **High Risk** — Risk score significantly above 100%, deadline is highly likely to be missed at current pace   
+- **Low Risk** — Risk score well under 100%, task is on pace   
+- **Medium Risk** — Risk score approaching or slightly over 100%   
+- **High Risk** — Risk score significantly above 100%, deadline is highly likely to be missed at current pace   
 
 ---
 
-## 🔍 Sample Data Snapshot
+## Sample Data Snapshot
 
 | Task Name | Tasks Completed | Total Tasks | Days Left | % Work Remaining | Risk (%) | Risk Level |
 |-----------|-----------------|-------------|-----------|-------------------|----------|------------|
@@ -69,7 +69,7 @@ The tool compares how much work is left against how much time is left. If the re
 
 ---
 
-## 🛠️ Excel Skills & Features Used
+## Excel Skills & Features Used
 
 | Feature | Purpose |
 |---------|---------|
@@ -81,7 +81,7 @@ The tool compares how much work is left against how much time is left. If the re
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 - How to translate a real project-management problem into a single, automatically calculated risk metric   
 - Building a percentage-based formula that scales meaningfully beyond 100% to clearly signal high-risk outliers   
@@ -90,7 +90,7 @@ The tool compares how much work is left against how much time is left. If the re
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the `Imminent_Deadline_Risk_Predictor.xlsx` file   
 2. Open it in Microsoft Excel   
@@ -100,18 +100,18 @@ The tool compares how much work is left against how much time is left. If the re
 
 ---
 
-## 👤 Author
+## Author
 
 **Md. Sirajul Islam**   
-📎 [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)   
-🐙 [github.com/sirajul-islam5](https://github.com/sirajul-islam5)   
+- [linkedin.com/in/md-sirajul-islam57](https://linkedin.com/in/md-sirajul-islam57)   
+- [github.com/sirajul-islam5](https://github.com/sirajul-islam5)   
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).   
 
 ---
 
-> *This is a self-made mini project created for learning purpose.* 
+> *This is a self-driven project created for learning purpose.* 
